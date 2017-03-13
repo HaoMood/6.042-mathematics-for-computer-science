@@ -1,0 +1,12 @@
+NAME
+  number_theory
+
+DESCRIPTION
+  Common algorithms used for number theory.
+
+USAGE
+   $ make
+   $ ./bin/main
+
+AUTHOR
+  Hao Zhang: zhangh0214@gmail.com
